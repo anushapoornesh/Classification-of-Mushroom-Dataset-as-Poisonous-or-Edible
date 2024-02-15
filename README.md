@@ -22,14 +22,15 @@ The project contains the implementation and analysis of various machine learning
 
 ## Project Structure
 The project is structured as follows:
-    Initial analysis of the dataset
-    Data preprocessing, including normalization and encoding
-    Feature Engineering
-    Implementation of baseline systems (trivial systems and nearest means classifier)
-    Implementation of various machine learning models
-        Support Vector Machines (linear and RBF kernels)
-        k-Nearest Neighbors
-        2-class Perceptron
-        Multi-Layer Perceptron
-    Model evaluation using cross-validation and test set
-    Comparison and analysis of model performance
+- Initial analysis of the dataset
+- Data preprocessing, including normalization and encoding
+- Feature Engineering
+- Implementation of baseline systems (trivial systems and nearest means classifier)
+- Implementation of various machine learning models
+  - Support Vector Machines (linear and RBF kernels)
+  - k-Nearest Neighbors
+  - 2-class Perceptron
+  - Multi-Layer Perceptron
+- Model evaluation using cross-validation and test set
+- Comparison and analysis of model performance
+
